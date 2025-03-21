@@ -3,6 +3,7 @@
 
 ---
 ## Contributors
+- **Bilal Ahmed**
 - **Hammad Malik**
 - **Ahtisham Uddin**
 
